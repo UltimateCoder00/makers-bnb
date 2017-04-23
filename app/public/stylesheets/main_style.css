@@ -1,0 +1,36 @@
+*{
+  font-family: helvetica;
+}
+
+body{
+
+}
+
+.form-textbox{
+  border:none;
+  border-bottom: 2px solid red;
+}
+
+.header {
+  width:100%;
+  height:10%;
+  background-color: grey;
+  opacity: 0.8;
+
+}
+
+.header-button {
+  float: right
+}
+
+.space-index-frame{
+  width: 60%;
+  opacity: 1;
+  border:none;
+  border-bottom: 2px solid red;
+
+  /*background-color: green;*/
+  margin: auto;
+  padding: 1%;
+  margin-top: 5px;
+}
